@@ -57,7 +57,7 @@ Ce projet est sous licence MIT. N'hésitez pas à l'utiliser et à le modifier s
 
 ## Auteur
 
-[Votre nom]
+Sonnerat Tom et Anthony Futre
 
 ## Remerciements
 
