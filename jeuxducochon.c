@@ -38,7 +38,6 @@
 #define AI_MIN_BANK 20
 #define INPUT_BUFFER_SIZE 256
 
-// Simple translation system
 typedef enum {
     LANG_EN,
     LANG_FR
@@ -145,7 +144,6 @@ int main(void) {
     
     ENABLE_ANSI();
     
-    // Select language
     selectLanguage();
     
     GameState game;
